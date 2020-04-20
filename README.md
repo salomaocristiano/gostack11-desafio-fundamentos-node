@@ -33,6 +33,12 @@
 
 </p>
 
+<p align="center">
+
+![image-example](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-fundamentos-node/master/assets/test.jpg)
+
+</p>
+
 ## :rocket: Sobre o desafio
 
 Aplicação serve para armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações. Utilizando Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
